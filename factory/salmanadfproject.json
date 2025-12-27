@@ -1,0 +1,9 @@
+{
+	"name": "salmanadfproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2bbafaf9-711e-44ad-aa9a-ceb0fe32742f",
+		"tenantId": "ff355289-721e-4dd7-a663-afec62ab9d54"
+	}
+}
